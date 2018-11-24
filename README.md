@@ -1,2 +1,7 @@
 # Component
-React component repo
+Repository of React Components.
+
+
+Usage:
+
+import {ComponentName} from ComponentName/index.js
